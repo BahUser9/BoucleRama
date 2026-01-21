@@ -7,3 +7,11 @@ git init -b main
 git status
 git add nomdufichier
 git restore nomdufichier
+
+git commit -m "le message a passer"
+git log   -> pour voir l´historique des commits
+
+
+
+----
+fevrier blablabla
