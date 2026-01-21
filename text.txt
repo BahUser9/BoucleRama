@@ -1,0 +1,9 @@
+je suis un homme
+je viens de la guinee
+jai 25ans
+
+
+git init -b main
+git status
+git add nomdufichier
+git restore nomdufichier
